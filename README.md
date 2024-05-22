@@ -7,3 +7,6 @@ https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels/versions/1?reso
 
 Here is the link to the code for the EDA done on that dataset.
 https://www.kaggle.com/code/diaakotb/obesity-type-eda-and-classification-99-boosting
+
+Link to the code for the statistical model and the confusion matrix. 
+https://www.kaggle.com/code/tkunzler/obesity-levels-acc-98-eda
