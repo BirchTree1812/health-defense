@@ -10,3 +10,6 @@ https://www.kaggle.com/code/diaakotb/obesity-type-eda-and-classification-99-boos
 
 Link to the code for the statistical model and the confusion matrix. 
 https://www.kaggle.com/code/tkunzler/obesity-levels-acc-98-eda
+
+Link to the presentation
+https://www.canva.com/design/DAGF-CgOYdg/kSPtIlxySaq-5vLlw_caeA/view?utm_content=DAGF-CgOYdg&utm_campaign=designshare&utm_medium=link&utm_source=editor
